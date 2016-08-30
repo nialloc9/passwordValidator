@@ -22,7 +22,7 @@ function passwordMatch(password1Id, password2Id){
 function passwordMinMaxLength(passwordId, min, max){
 
     //assign variables
-    var p = '#' + password;
+    var p = '#' + passwordId;
     var pVal = $(p).val();
     var result = true;
 
