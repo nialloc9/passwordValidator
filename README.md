@@ -1,5 +1,5 @@
 # passwordValidator
-This is password checker with the aim to reuse. It is to be used when the user is creating an acccount. It can be used together to check passwords match, password length, and that passwords include a letter and a number. Or it can be used separately by just calling the function you want.
+This is password validator with the aim to reuse. It is to be used when the user is creating an acccount. It can be used together to check passwords match, password length, and that passwords include a letter and a number. Or it can be used separately by just calling the function you want.
 
 
 # Instructions
