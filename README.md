@@ -20,7 +20,7 @@ passwordId: the id of the password to check
 
 min: (optional: if not using use '' instead) the min length allowed for the password.
 
-max: (optional: if not using use '' instead) The max lenght allowed for the password
+max: (optional: if not using use '' instead) The max length allowed for the password
 
 
 # checkIncludesLettersAndNumbers(passwordId) Parameters
