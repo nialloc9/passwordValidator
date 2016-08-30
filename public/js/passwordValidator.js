@@ -79,7 +79,7 @@ function passwordMinMaxLength(passwordId, min, max){
 function checkIncludesLettersAndNumbers(passwordId){
 
     //assign variables
-    var p = '#' + password;
+    var p = '#' + passwordId;
     var pVal = $(p).val();
     var result = false;
 
