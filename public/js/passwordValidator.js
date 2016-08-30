@@ -19,7 +19,7 @@ function passwordMatch(password1Id, password2Id){
 }
 
 //PASSWORD LENGTH FUNCTION
-function passwordMinMaxLength(password, min, max){
+function passwordMinMaxLength(passwordId, min, max){
 
     //assign variables
     var p = '#' + password;
@@ -76,7 +76,7 @@ function passwordMinMaxLength(password, min, max){
 }
 
 //PASSWORD INCLUDES LETTERS AND NUMBERS FUNCTION
-function checkIncludesLettersAndNumbers(password){
+function checkIncludesLettersAndNumbers(passwordId){
 
     //assign variables
     var p = '#' + password;
